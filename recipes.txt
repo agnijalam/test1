@@ -1,6 +1,3 @@
 Welcome shiju
-<<<<<<< HEAD
 welcome Rasmi
-=======
-welcome kumar
->>>>>>> Test-shiju
+ 
